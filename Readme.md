@@ -1,6 +1,6 @@
 Useful references : 
 
-        - anaconda installation : [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
+        - anaconda installation : [https://www.anaconda.com/products/distribution] (https://www.anaconda.com/products/distribution)
 
         - google colab : [linkhttps://colab.research.google.com/
 
@@ -9,5 +9,7 @@ Useful references :
         - pandas documentation : https://pandas.pydata.org/docs/user_guide/index.html
 
         - numpy documentation : https://numpy.org/doc/stable/user/index.html#user
+   
 
+        [I'm an inline-style link](https://www.google.com)
         
