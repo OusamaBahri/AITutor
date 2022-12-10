@@ -2,7 +2,7 @@ Useful references :
 
         - anaconda installation : https://www.anaconda.com/products/distribution)
 
-        - google colab : [linkhttps://colab.research.google.com/
+        - google colab : https://colab.research.google.com/
 
         - kaggle courses : https://www.kaggle.com/learn 
 
